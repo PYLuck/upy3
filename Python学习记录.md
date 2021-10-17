@@ -720,14 +720,12 @@ from tensorflow.python.keras.preprocessing.image import ImageDataGenerator
   
   
   
-  从服务器到本地 ：git clone https://github.com/PYLuck/upy3.git
-  
-  
+ 首次从服务器到本地 ：git clone https://github.com/PYLuck/upy3.git
+  再次从服务器到本地： git pull 
   
   上传： git push    
-
-
-  ######上传测试##########
+	# 用户名：PYLuck
+	# 秘钥：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
 
 
 
