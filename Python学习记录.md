@@ -724,7 +724,7 @@ from tensorflow.python.keras.preprocessing.image import ImageDataGenerator
   再次从服务器到本地： git pull 
   
   上传： git push    
-	# 用户名：PYLuck
+	# 用户名：PYLuck				# 可能不需要登录
 	# 秘钥：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
 
 
